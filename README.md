@@ -1,1 +1,5 @@
 # LIRI
+
+node_modules
+.DS_Store
+.env
